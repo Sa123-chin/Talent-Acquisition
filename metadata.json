@@ -1,0 +1,6 @@
+{
+  "name": "Candidate Screening Assistant",
+  "description": "An AI-powered Talent Acquisition tool for candidate resume screening and phone interview script generation following Odin's SOP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
